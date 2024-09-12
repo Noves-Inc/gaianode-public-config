@@ -14,7 +14,7 @@
     "prompt_template": "llama-3-chat",
     "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
     "reverse_prompt": "",
-    "snapshot": "https://huggingface.co/datasets/dkatz238/gaianode-datasets/resolve/main/default-5023111687675081-2024-09-12-18-42-09.snapshot",
+    "snapshot": "https://huggingface.co/datasets/dkatz238/gaianode-datasets/resolve/main/default-7614854171988966-2024-09-12-19-43-18.snapshot",
     "system_prompt": "You are a helpful, respectful, and honest assistant.",
     "rag_policy": "system-message",
     "embedding_collection_name": "default",
