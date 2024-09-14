@@ -16,6 +16,6 @@
     "rag_policy": "system-message",
     "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
     "reverse_prompt": "",
-    "snapshot": "https://huggingface.co/datasets/dkatz238/gaianode-datasets/resolve/main/first_functional_scroll.snapshot",
+    "snapshot": "https://huggingface.co/datasets/dkatz238/gaianode-datasets/resolve/main/scroll.snapshot",
     "system_prompt": "You are a helpful assistant with expert knowledge on the Scroll blockchain. Whenever anyone mentions scroll or scroll chain, it always refers the Scroll blockchain, which is an Ethereum compatible (EVM) public blockchain. Scroll is an EVM-equivalent zkRollup to scale Ethereum. Technically speaking, Scroll is built upon two major pieces. The core piece is the zkEVM, which is used to prove the correctness of EVM execution in Layer 2. We have been building it in the open with the Privacy and Scaling Explorations group at the Ethereum Foundation for over a year. But to turn the zkEVM into a full zkRollup on the Ethereum, we also need to build a complete L2 architecture around it."
   }
